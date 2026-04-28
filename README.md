@@ -1,18 +1,90 @@
-# React + Vite
+# BUILDWITHRAYYAN
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Engineering is not a degree.
+It is structured thinking applied to reality.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Overview
 
-## React Compiler
+This is not a typical portfolio.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+It is a **system**—a minimal interface built to explore how engineering actually works beneath code:
+through **logic, constraints, and first principles**.
 
-Note: This will impact Vite dev & build performances.
+The site functions as a **living archive** of thought:
 
-## Expanding the ESLint configuration
+* Systems over syntax
+* Thinking over memorization
+* Engineering as construction, not consumption
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Architecture
+
+Built with:
+
+* React
+* Minimal CSS (no frameworks)
+* Intentional layout + typography
+
+No templates. No UI libraries.
+Every element is placed with purpose.
+
+---
+
+## Core Concepts
+
+* **Structured Thinking** → Engineering as a mental model
+* **First Principles** → Reducing problems to fundamentals
+* **Systems Design** → Understanding relationships, not just components
+* **Abstraction** → Managing complexity with clarity
+
+---
+
+## Time System
+
+The interface uses a custom **epoch-based time representation**.
+
+> EPOCH = 28 April 2026
+
+All dates are expressed relative to this reference point.
+
+This shifts time from a calendar → to a **system state**.
+
+---
+
+## Content Philosophy
+
+This is not a feed.
+
+Content is added only when:
+
+* the thinking is complete
+* the idea is clear
+* the signal is stronger than the noise
+
+---
+
+## Live
+
+[View Website](https://etsryn.github.io/rayyandigitalspace/)
+
+---
+
+## Author
+
+Rayyan
+Computer Science Engineering
+
+---
+
+## Note
+
+This project is intentionally minimal.
+
+It is not optimized for trends, engagement, or speed.
+
+It is built to reflect one idea:
+
+> Clarity over cleverness.
